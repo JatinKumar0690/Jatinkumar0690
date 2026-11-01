@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinkumar0690&label=Profile%20views&color=0e75b6&style=flat" alt="jatinkumar0690" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinkumar0690" alt="jatinkumar0690" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" alt="jatinkumar0690" /></a> </p>
 
 - 🔭 I’m currently working on **Improving my DSA skills**
 

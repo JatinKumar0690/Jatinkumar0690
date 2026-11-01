@@ -1,35 +1,38 @@
+<h1 align="center">It's a pleasure to meet you, Hello 👋, I'm Jatin Kumar</h1>
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<h3 align="center">Full-Stack Developer | MERN Stack | Java & DSA</h3>
 
-<ul>
-<li>🔭 I'm currently working on <b>Improving my DSA skills</b></li>
-<br>
-<li>🌱 I'm currently learning <b>Java, Data Structures & Algorithms, Advanced Problem Solving</b></li>
-<br>
-<li>👯 I'm looking to collaborate on <b>MERN Stack & Open Source Projects</b></li>
-<br>
-<li>🤝 I'm looking for help with <b>Advanced DSA & Backend Development</b></li>
-<br>
-<li>👨‍💻 All of my projects are available at <a href="https://github.com/JatinKumar0690">GitHub</a></li>
-<br>
-<li>💬 Ask me about <b>MERN Stack, React.js, Node.js, Express.js, MongoDB, Java & DSA</b></li>
-<br>
-<li>📫 Reach me at <b>jatinkhoba580@gmail.com</b></li>
-<br>
-<li>⚡ Fun fact: <b>I am addicted to coding!</b></li>
-</ul>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JatinKumar0690&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-</td>
+<!-- ANIME CODING GIF -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="420" alt="Anime Coding Laptop GIF"/>
+</p>
 
-<td width="35%" align="center" valign="middle">
+<!-- GITHUB TROPHIES -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<img src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="300" alt="Anime laptop coding animation">
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" alt="GitHub Trophies"/>
+  </a>
+</p>
 
-</td>
-</tr>
-</table>
+<!-- ABOUT ME -->
+<h2 align="left">👨‍💻 About Me</h2>
+
+- 🔭 I'm currently working on **Improving my DSA skills**
+- 🌱 I'm currently learning **Java, Data Structures & Algorithms, Advanced Problem Solving**
+- 👯 I'm looking to collaborate on **MERN Stack & Open Source Projects**
+- 🤝 I'm looking for help with **Advanced DSA & Backend Development**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/JatinKumar0690)
+- 💬 Ask me about **MERN Stack, React.js, Node.js, Express.js, MongoDB, Java & DSA**
+- 📫 Reach me at **jatinkhoba580@gmail.com**
+- ⚡ Fun fact: **I am addicted to coding!**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -143,8 +143,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinkumar0690&show_icons=true&locale=en&layout=compact" alt="jatinkumar0690" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinkumar0690&show_icons=true&locale=en" alt="jatinkumar0690" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinkumar0690&" alt="jatinkumar0690" /></p>

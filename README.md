@@ -40,9 +40,6 @@
 <a href="https://www.java.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-</a>
 
 <!-- Frontend Development -->
 <a href="https://react.dev/" target="_blank">
@@ -87,13 +84,13 @@
 
 <!-- Cloud & Deployment -->
 <a href="https://cloudinary.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="Cloudinary" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="40" height="40"/>
 </a>
 <a href="https://vercel.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
 </a>
 <a href="https://render.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="Render" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/render" alt="Render" width="40" height="40"/>
 </a>
 <a href="https://www.netlify.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
